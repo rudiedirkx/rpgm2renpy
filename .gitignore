@@ -1,0 +1,7 @@
+/game/
+/lib/
+/renpy/
+/*.txt
+/*.exe
+/*.py
+/*.sh
